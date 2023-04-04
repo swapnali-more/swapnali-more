@@ -1,6 +1,6 @@
-#Hi there 👋 I'm Swapnali
+# Hi there 👋 I'm Swapnali
 
-###A passionate Front End Web developer who solves problems using code.
+### A passionate Front End Web developer who solves problems using code.
 
 🔭 I’m currently working on **[Mern Ecommerce](https://github.com/swapnali-more/mern-ecommerce) and Vanilla Js Projects**
 
