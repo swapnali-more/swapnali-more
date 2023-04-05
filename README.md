@@ -2,7 +2,7 @@
 
 ### A passionate Front End Web developer who solves problems using code.
 
-🔭 I’m currently working on **[Mern Ecommerce](https://github.com/swapnali-more/mern-ecommerce) and Vanilla Js Projects**
+🔭 I’m currently working on **[Mern Ecommerce with TS](https://github.com/swapnali-more/mern-ecommerce) and Vanilla Js Projects**
 
 🌱 I’m currently learning **Advance [Next.JS](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/), Updated [React.JS](https://react.dev/) and improving my [Node.JS Skills](https://www.w3schools.com/nodejs/) and also started with [Python Basics](https://www.w3schools.com/python/)**
 
